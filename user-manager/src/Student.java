@@ -8,6 +8,7 @@ public class Student {
     //f(x)=ax+b
     //跑步
     //学习
+    //打游戏
 
     public void goToNightClass(){
         System.out.println("我们在认真上晚自习");
@@ -35,6 +36,10 @@ public class Student {
     }
     public void doStudy(){
         System.out.println("我们学习");
+    }
+    public void playGames(){
+        System.out.println("打游戏")
+        
     }
 
 
